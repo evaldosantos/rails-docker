@@ -40,3 +40,9 @@ Starting the server:
 Stopping the server:
 
 - hit `ctrl-c` on your keyboard to stop the server.
+
+## Troubleshooting
+
+Fix user permissions
+
+- run `sudo chown -R $USER:$USER <folder-name>`
